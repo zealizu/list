@@ -182,6 +182,7 @@ button:hover{
     }
     ul li a{
         font-size: 1.5rem
+        color: #8787d6;
     }
     .container-3{
         display: grid;
